@@ -1,0 +1,15 @@
+# Never commit personal data
+*consent*.pdf
+*consent*.jpg
+registers/
+media/
+*.mp4
+*.mov
+*.jpg
+*.jpeg
+*.png
+!models/**/*.png
+
+# OS files
+.DS_Store
+Thumbs.db

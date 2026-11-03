@@ -1,0 +1,3 @@
+participant_id,age_band,ward,group,session_1_attended,session_2_attended,guardian_consent,media_consent,notes
+KIO-PR-001,13-15,Port Reitz,AM,Y,,Y,N,
+KIO-PR-002,10-12,Port Reitz,AM,Y,,Y,Y,
